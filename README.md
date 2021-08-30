@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Ethan Naidu, your friendly Full Stack Developer!
-- 🌱 Aspiring learner // while(knowledgeLevel < 100){knowledgeLevel++}
-- 📫 // ethancodes1@gmail.com
+- 👋 Hi, I’m Ethan Naidu // Your Friendly Full Stack Dev!
+- 🌱 Dedicated developer // for(knowledgeLevel = 0; knowledgeLevel<1000; knowledgeLevel++){console.log('Constantly Learning')}
+- 📫 Say Hi whenever // ethancodes1@gmail.com
